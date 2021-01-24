@@ -3,7 +3,7 @@ Drewc's Fork.
 Gerbil is as gerbil does.
 
 #+begin_src shell
-gxi -e "(import :drewc/r7rs/gerbil-swank)" -e "(start-swank)"
+gxi -e "(import :drewc/gerbil-swank)" -e "(start-swank)"
 #+end_src
 
 * No Handler Found
